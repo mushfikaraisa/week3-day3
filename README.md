@@ -4,7 +4,7 @@
 
 ### Helpful Resources
 * [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
-* [YDK JS Course Intro](https://github.com/getify/You-Dont-Know-JS)
+* [Eloquent JS Book](https://eloquentjavascript.net/)
 
 ### Week I
 
