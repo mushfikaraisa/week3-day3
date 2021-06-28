@@ -1,6 +1,5 @@
 # MDL Cohort Constitution
 
-
 I) Celebrate ignorance, embrace failure
 
 II) Always be Coding
@@ -19,25 +18,23 @@ VIII) Ask Questions — no dumb Qs!
 
 IX) Practice, practice, practice
 
-X) Be honest with yourself and others
+X) Check-in frequently, we're all humans
 
-XI) Check-in frequently, we're all humans
+XI) Be open to assisting one another
 
-XII) Be open to assisting one another
+XII) Take frequent breaks!
 
-XIII) Take frequent breaks!
+XIII) Commit yourself to learning — It's a lifelong process
 
-XIV) Commit yourself to learning — It's a lifelong process
+XIV) Stay in touch with your peers
 
-XV) Stay in touch with your peers
+XV) Listen and accept constructive criticism, don't take it personally
 
-XVI) Listen and accept constructive criticism, don't take it personally
+XVI) Complain to coaches, not peers
 
-XVII) Complain to coaches, not peers
+XVII) Be present, mentally and physically
 
-XVIII) Be present, mentally and physically
-
-XIX) Don't drag others down!
+XVIII) Don't drag others down!
 
 
 X
