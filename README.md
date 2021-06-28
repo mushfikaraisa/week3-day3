@@ -10,7 +10,7 @@
 
 #### Lesson I: Objects and Functions
 
-* [Flying Start Recording](tbd)
+* [Flying Start Recording](https://youtu.be/yiXsUEZQeuA)
 * [Lecture Recording](tbd)
 * [slides](https://docs.google.com/presentation/d/1WmFLl5hSog1Q08jOoLv_jDHKZG1VApt-RUQeof1K7LY/edit?usp=sharing)
 * [repl](https://replit.com/@danceoval/MotionlessStylishTraining#index.js)
