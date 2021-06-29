@@ -1,7 +1,10 @@
 const Airport = require('./Airport')
+const Plane = require('./Plane')
 
 describe('Airport object', () => {
 	const testAirport = new Airport("DFW")
+
+	const testPlane = new Plane('912')
 	
 	test('airport has a name', () => {
 		expect(testAirport.name).toBe("DFW")
@@ -12,7 +15,7 @@ describe('Airport object', () => {
 	})
 
 	test('airport can add planes', () => {
-		testAirport.addPlane('JJ the Jet Plane')
+		testAirport.addPlane(testPlane)
 		expect(testAirport.planes.length).toBe(1)
 	})
 })
