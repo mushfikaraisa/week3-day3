@@ -23,3 +23,5 @@
 #### Lesson II: TDD
 
 * [Slides](https://docs.google.com/presentation/d/1IV8y0CEgYwcIN4nTBukMvrxjGmN_ltUO46QKW1xbFdE/edit?usp=sharing)
+* [Livecode](bootcamp/week-1/tdd/demo)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.2-Test_Driven_Development.html#javascript)
