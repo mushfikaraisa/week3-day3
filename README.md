@@ -40,4 +40,4 @@
 * [Livecode](bootcamp/week-1/static-functions)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
 * [Replit Example](https://replit.com/@LindaEng1/pokemon-scaffold#index.js)
-* [Exit Ticket](https://forms.gle/QpcRREyzs24Gj47r7)
+* [Exit Ticket]()
