@@ -41,3 +41,10 @@
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
 * [Replit Example](https://replit.com/@LindaEng1/pokemon-scaffold#index.js)
 * [Exit Ticket](https://forms.gle/Y4JCLiooHuYa9FRA6)
+
+
+####  Lesson V: Inheritance
+* [Slides](https://docs.google.com/presentation/d/1Yd5mNPrse3ElnFTAxBAh_pnxlwd1Gc9yHyzRspTlz1E/edit?usp=sharing)
+* [Livecode](bootcamp/week-1/inheritance)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.5-Inheritance.html#javascript)
+* [Exit Ticket](https://forms.gle/zkbrPtLq8kxk2efm7)
