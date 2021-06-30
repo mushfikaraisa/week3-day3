@@ -32,7 +32,7 @@
 * [Slides](https://docs.google.com/presentation/d/1DEIUcqYXud3rVzXUjGzwVM5QCzOw-46jeyCFlCxz4_8/edit?usp=sharing)
 * [Livecode](bootcamp/week-1/airport)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.3-Objects_in_an_Airport_Domain.html#javascript)
-* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSd1XzVJ564pZs9wD5DITFOfrh95QCFpxDEzNVucSJT-MhxmHA/viewform)
+* [Exit Ticket]()
 
 #### Lesson IV: Static Functions
 
