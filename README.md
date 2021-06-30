@@ -44,7 +44,10 @@
 
 
 ####  Lesson V: Inheritance
+
 * [Slides](https://docs.google.com/presentation/d/1Yd5mNPrse3ElnFTAxBAh_pnxlwd1Gc9yHyzRspTlz1E/edit?usp=sharing)
 * [Livecode](bootcamp/week-1/inheritance)
+* [Lecture](https://youtu.be/iIBBW58BY2A)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.5-Inheritance.html#javascript)
+* [Review](https://youtu.be/bhXZ79TvUjk)
 * [Exit Ticket](https://forms.gle/zkbrPtLq8kxk2efm7)
