@@ -51,3 +51,11 @@
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.5-Inheritance.html#javascript)
 * [Review](https://youtu.be/bhXZ79TvUjk)
 * [Exit Ticket](https://forms.gle/zkbrPtLq8kxk2efm7)
+
+
+#### Lesson VI: UML
+
+* [Slides](https://docs.google.com/presentation/d/1c3dN4p6X6SMwTGJxNFCCrgpHMGO9Qm1xvdhViRXSpm8/edit?usp=sharing)
+* [Livecode](bootcamp/week-1/uml)
+* [Lecture]()
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.6-UML_Modelling.html#javascript)
