@@ -57,7 +57,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/1c3dN4p6X6SMwTGJxNFCCrgpHMGO9Qm1xvdhViRXSpm8/edit?usp=sharing)
 * [Livecode](bootcamp/week-1/uml)
-* [Lecture]()
+* [Lecture](https://youtu.be/u0h6N7aFMPU)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.6-UML_Modelling.html#javascript)
 * [Exit Ticket](https://forms.gle/K6ZFCsb8QfSkP4qD9)
 
