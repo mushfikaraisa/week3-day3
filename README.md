@@ -59,3 +59,10 @@
 * [Livecode](bootcamp/week-1/uml)
 * [Lecture]()
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.6-UML_Modelling.html#javascript)
+
+
+#### Unit 1 Challenge
+
+* [Slides](https://docs.google.com/presentation/d/1rYs48tonGgr71u1xqqT0mvr8OslQ50cZmPG3S5CmwIM/edit?usp=sharing)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.7-OOP_Challenge.html#javascript)
+* [Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.8-End_of_Unit_Quiz_OOP.html#javascript)
