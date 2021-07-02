@@ -65,4 +65,10 @@
 
 * [Slides](https://docs.google.com/presentation/d/1rYs48tonGgr71u1xqqT0mvr8OslQ50cZmPG3S5CmwIM/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.7-OOP_Challenge.html#javascript)
+
+
+#### End of Unit Surveys
+
 * [Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.8-End_of_Unit_Quiz_OOP.html#javascript)
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdBepbIoJ5U99KfMomi_4CxrVfq3Iln1EaZX11E6uhZMuhrOA/viewform?usp=sf_link)
+* [End of Week Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYE8Bn3SfDX23bodGJGNXUW-ogHuGBcAPG1ZWhGgoB6B2rQQ/viewform)
