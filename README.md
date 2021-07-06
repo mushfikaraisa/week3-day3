@@ -66,7 +66,7 @@
 
 * [Slides](https://docs.google.com/presentation/d/1rYs48tonGgr71u1xqqT0mvr8OslQ50cZmPG3S5CmwIM/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.7-OOP_Challenge.html#javascript)
-* [Solution](bootcamp/week-1/scooter-challenge)
+* [Solution](bootcamp/week-1/scooter-challenge-solution)
 
 
 
