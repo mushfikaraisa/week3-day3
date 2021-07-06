@@ -85,3 +85,9 @@
 * [Livecode]()
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.1-Asynchronous_JavaScript.html#javascript)
 * [Exit Ticket](https://forms.gle/14MG7XMqvhNvm3BG8)
+
+
+* [Callstacks](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+* [V8 Engine](https://medium.com/hackernoon/javascript-v8-engine-explained-3f940148d4ef)
+* [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en&ab_channel=JSConf)
+* [Async JS](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21)
