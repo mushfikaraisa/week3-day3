@@ -66,6 +66,8 @@
 
 * [Slides](https://docs.google.com/presentation/d/1rYs48tonGgr71u1xqqT0mvr8OslQ50cZmPG3S5CmwIM/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.7-OOP_Challenge.html#javascript)
+* [Solution](bootcamp/week-1/scooter-challenge)
+
 
 
 #### End of Unit Surveys
@@ -73,3 +75,12 @@
 * [Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.8-End_of_Unit_Quiz_OOP.html#javascript)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdBepbIoJ5U99KfMomi_4CxrVfq3Iln1EaZX11E6uhZMuhrOA/viewform?usp=sf_link)
 * [End of Week Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYE8Bn3SfDX23bodGJGNXUW-ogHuGBcAPG1ZWhGgoB6B2rQQ/viewform)
+
+#### WEEK 2
+
+#### Lesson: Asynchronous vs. Synchronous JS
+
+* [Slides](https://docs.google.com/presentation/d/1zHTzu1QL7dhTzH8MpGP4ZQby8RTp--ZavPmCI6izAjQ/edit?usp=sharing)
+* [Livecode]()
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.1-Asynchronous_JavaScript.html#javascript)
+* [Exit Ticket](https://forms.gle/Nrxz13qMCtgDMfM49)
