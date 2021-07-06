@@ -84,4 +84,4 @@
 * [Slides](https://docs.google.com/presentation/d/1zHTzu1QL7dhTzH8MpGP4ZQby8RTp--ZavPmCI6izAjQ/edit?usp=sharing)
 * [Livecode]()
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.1-Asynchronous_JavaScript.html#javascript)
-* [Exit Ticket](https://forms.gle/Nrxz13qMCtgDMfM49)
+* [Exit Ticket](https://forms.gle/14MG7XMqvhNvm3BG8)
