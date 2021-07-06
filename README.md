@@ -91,3 +91,8 @@
 * [V8 Engine](https://medium.com/hackernoon/javascript-v8-engine-explained-3f940148d4ef)
 * [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en&ab_channel=JSConf)
 * [Async JS](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21)
+
+
+#### Lesson: Callbacks, Promises, Async/Await
+
+* [Pre-reading](https://betterprogramming.pub/an-introduction-to-promises-in-javascript-a29bfdad4643)
