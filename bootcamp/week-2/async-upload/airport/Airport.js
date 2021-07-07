@@ -80,6 +80,18 @@ class Airport {
         this.removePlane(plane);       
     }
 
+    getInfoCallback(){
+
+    }
+
+    getInfoPromise() {
+
+    }
+
+    getInfoAsyncAwait() {
+        
+    }
+
 }
 
 module.exports = Airport
