@@ -84,6 +84,7 @@ class Airport {
         const airportName = this.name;
         const pathToDB = path.join(__dirname, 'airportsData.json')
 
+    
         fs.readFile(pathToDB, (err, data) => {
             const airports = JSON.parse(data)
             const airport = airports.find(airport => airport.iata === airportName)
@@ -93,7 +94,21 @@ class Airport {
     }
 
     getInfoPromise() {
+        const airportName = this.name;
+        const pathToDB = path.join(__dirname, 'airportsData.json')
 
+        return new Promise((resolve, reject) => {
+            fs.readFile(pathToDB, (err, data) => {
+                if(err) {
+                    return reject(err)
+                }
+                
+                const airports = JSON.parse(data)
+                const airport = airports.find(airport => airport.iata === airportName)
+
+                resolve(airport)
+            })
+        })
     }
 
     getInfoAsyncAwait() {

@@ -28,3 +28,12 @@ test('gets info with a promise', () => {
 		expect(err).toBeNull()
 	})
 })
+
+
+test('gets info with async await', async () => {
+	const togepi = new Pokemon()
+	
+	let foundPokemon = await togepi.getInfoAwait('Togepi')
+	expect(foundPokemon.type).toBe("Fairy")
+
+})

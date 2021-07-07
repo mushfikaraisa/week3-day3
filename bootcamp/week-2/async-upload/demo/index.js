@@ -1,5 +1,6 @@
 const fs = require('fs'); // Node.js file system module for standard callbacks
 const path = require('path'); // Node.js directories and file paths module
+const fsp = require('fs').promises
 
 class Pokemon {
 	constructor(name, type) {
@@ -25,7 +26,7 @@ class Pokemon {
 		const db = path.join(__dirname, 'db.json')
 
 		return new Promise((resolve, reject) => {
-			
+
 			fs.readFile(db, (err, data) => {
 				if(err) {
 					return reject(err)
@@ -34,10 +35,21 @@ class Pokemon {
 				const pokemon = allPokemon.find(pokemon => pokemon.name === name)
 				resolve(pokemon)
 
-				
-
 			})
 		})
+	}
+
+	async getInfoAwait(name) {
+		const db = path.join(__dirname, 'db.json')
+
+		try {
+			let data = await fsp.readFile(db)
+			const allPokemon = JSON.parse(String(data))
+			const pokemon = allPokemon.find(pokemon => pokemon.name === name)
+			return pokemon
+		} catch (err) {
+			console.log("UH OH SPAGETTIOS!!", err)
+		}
 	}
 }
 
