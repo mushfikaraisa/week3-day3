@@ -82,7 +82,6 @@
 
 *[Pre-reading](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [Slides](https://docs.google.com/presentation/d/1zHTzu1QL7dhTzH8MpGP4ZQby8RTp--ZavPmCI6izAjQ/edit?usp=sharing)
-* [Livecode]()
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.1-Asynchronous_JavaScript.html#javascript)
 * [Exit Ticket](https://forms.gle/14MG7XMqvhNvm3BG8)
 
@@ -97,3 +96,4 @@
 #### Lesson: Callbacks, Promises, Async/Await
 
 * [Pre-reading](https://betterprogramming.pub/an-introduction-to-promises-in-javascript-a29bfdad4643)
+* [PublicAPIs](https://github.com/public-apis/public-apis)
