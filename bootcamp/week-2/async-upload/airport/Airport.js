@@ -111,8 +111,19 @@ class Airport {
         })
     }
 
-    getInfoAsyncAwait() {
+    async getInfoAwait() {
+        const airportName = this.name;
+        const pathToDB = path.join(__dirname, 'airportsData.json')
+        try {
+            const data = await fsp.readFile(pathToDB)
+            const airports = JSON.parse(data)
+            const airport = airports.find(airport => airport.iata === airportName)
         
+            return airport
+        } catch(err) {
+            console.log("AHHH! AN ERROR! ", err)
+        }
+      
     }
 
 }

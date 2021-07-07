@@ -114,7 +114,7 @@ describe('Airport', () => {
     
     });
 
-    test('getInfo with Promise', () => { // async indicator to Jest
+    test('getInfo with Promise', () => { 
        const LHR = new Airport('LHR')
         //when
         return LHR.getInfoPromise()
@@ -123,8 +123,11 @@ describe('Airport', () => {
         })
     });
 
-    test('getInfo with Async Await', () => { // async indicator to Jest
-       // Add your test here
+    test('getInfo with Async Await', async () => { // async indicator to Jest
+        const LHR = new Airport('LHR')
+        //when
+        let info = await LHR.getInfoAwait()
+        expect(info.city).toBe('London')
     });
 
 
