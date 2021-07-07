@@ -14,3 +14,17 @@ test('gets info with Callbacks', (done) => { //async indicator to jest
 	})
 
 })
+
+test('gets info with a promise', () => {
+	const charizard = new Pokemon()
+	
+	//when
+	return charizard.getInfoPromise('Charizard')
+	.then(foundPokemon => {
+		expect(foundPokemon.type === 'fire')
+	})
+	.catch(err => {
+		// console.log(err)
+		expect(err).toBeNull()
+	})
+})
