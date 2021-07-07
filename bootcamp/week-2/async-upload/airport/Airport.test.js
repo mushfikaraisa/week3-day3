@@ -101,5 +101,17 @@ describe('Airport', () => {
         expect(LAX.planes.length).toBe(0);
     });
 
+    test('getInfo with Callback', () => { // async indicator to Jest
+       // Add your test here
+    });
+
+    test('getInfo with Promise', () => { // async indicator to Jest
+       // Add your test here
+    });
+
+    test('getInfo with Async Await', () => { // async indicator to Jest
+       // Add your test here
+    });
+
 
 });
