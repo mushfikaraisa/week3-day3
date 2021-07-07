@@ -80,8 +80,16 @@ class Airport {
         this.removePlane(plane);       
     }
 
-    getInfoCallback(){
+    getInfoCallback(callback){
+        const airportName = this.name;
+        const pathToDB = path.join(__dirname, 'airportsData.json')
 
+        fs.readFile(pathToDB, (err, data) => {
+            const airports = JSON.parse(data)
+            const airport = airports.find(airport => airport.iata === airportName)
+
+            callback(err, airport)
+        })
     }
 
     getInfoPromise() {

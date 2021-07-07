@@ -101,8 +101,17 @@ describe('Airport', () => {
         expect(LAX.planes.length).toBe(0);
     });
 
-    test('getInfo with Callback', () => { // async indicator to Jest
-       // Add your test here
+    test('getInfo with Callback', (done) => { // async indicator to Jest
+        // Add your test here
+        const LHR = new Airport('LHR')
+        //when
+        LHR.getInfoCallback((err, foundInfo) => {
+            //then
+            console.log("What did we find? ", foundInfo)
+            expect(foundInfo.city).toBe('London')
+            done()
+        })  
+    
     });
 
     test('getInfo with Promise', () => { // async indicator to Jest
