@@ -99,6 +99,7 @@
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.2-Promises.html#javascript)
 * [Slides](https://docs.google.com/presentation/d/1PILlnemxpdX0KwNKKg3e7SrlhEdsTbf7_owfavj69yI/edit?usp=sharing)
 * [PublicAPIs](https://github.com/public-apis/public-apis)
+* [Recording](https://youtu.be/TF22Pol49po)
 
 
 #### Async Airport Data Load
