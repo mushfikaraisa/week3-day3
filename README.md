@@ -96,4 +96,6 @@
 #### Lesson: Callbacks, Promises, Async/Await
 
 * [Pre-reading](https://betterprogramming.pub/an-introduction-to-promises-in-javascript-a29bfdad4643)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.2-Promises.html#javascript)
+* [Slides](https://docs.google.com/presentation/d/1PILlnemxpdX0KwNKKg3e7SrlhEdsTbf7_owfavj69yI/edit?usp=sharing)
 * [PublicAPIs](https://github.com/public-apis/public-apis)
