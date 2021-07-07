@@ -109,5 +109,8 @@
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.3-Asynchronous_Airport_Data_Load.html#javascript)
 * [Slides](https://docs.google.com/presentation/d/1yudgfMYEWn6D2fYzXn0BMGYsFD-mfHwKGI-v8cUiQHo/edit?usp=sharing)
 * [Livecode](bootcamp/week-2/async-upload)
+<<<<<<< HEAD
 * [Lecture Recording](https://youtu.be/XIp-VCC_YJY)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScji_qDqiW22CDzaGjU_mb7S0G3raLq_8C-lK-EfiZ4WPUzGQ/viewform?usp=sf_link)
+
+* [Extra reading](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
