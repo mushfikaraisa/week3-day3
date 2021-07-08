@@ -130,3 +130,6 @@
 * [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSevHGhZIqlXpZKbn6M5WRQOl-hNa6yVESxqHoDbUOQeonqOkw/viewform?usp=sf_link)
 
+* [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
+* [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
+
