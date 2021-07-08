@@ -113,3 +113,16 @@
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScji_qDqiW22CDzaGjU_mb7S0G3raLq_8C-lK-EfiZ4WPUzGQ/viewform?usp=sf_link)
 
 * [Extra reading](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
+
+
+#### Schema Design
+
+* [Slides](https://docs.google.com/presentation/d/1yGULnEGdaQQZ6Q2gRzI39E9adNJirQu9QeAj_uja_NI/edit?usp=sharing)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.1-Logical_Data_Model.html#javascript)
+
+* [Extra Reading — Intro to DBs](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.2-Introduction_to_Databases.html#javascript)
+
+#### SQL
+
+* [Slides](https://docs.google.com/presentation/d/1rCS2jkcd5mzaqKy319Um87L6GkGG2Aq5ytGnCQnp3TY/edit?usp=sharing)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
