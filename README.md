@@ -125,4 +125,5 @@
 #### SQL
 
 * [Slides](https://docs.google.com/presentation/d/1rCS2jkcd5mzaqKy319Um87L6GkGG2Aq5ytGnCQnp3TY/edit?usp=sharing)
+* [Livecode](https://replit.com/@DanielSohval1/ThinEvilSystems#main.sql)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
