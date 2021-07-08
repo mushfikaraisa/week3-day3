@@ -127,5 +127,6 @@
 * [Slides](https://docs.google.com/presentation/d/1rCS2jkcd5mzaqKy319Um87L6GkGG2Aq5ytGnCQnp3TY/edit?usp=sharing)
 * [Livecode](https://replit.com/@DanielSohval1/ThinEvilSystems#main.sql)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
+* [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSevHGhZIqlXpZKbn6M5WRQOl-hNa6yVESxqHoDbUOQeonqOkw/viewform?usp=sf_link)
 
