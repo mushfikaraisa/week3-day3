@@ -122,7 +122,7 @@
 * [Lecture Recording](https://youtu.be/jNL0eRdpxhw)
 * [Extra Reading — Intro to DBs](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.2-Introduction_to_Databases.html#javascript)
 
-#### SQL
+#### Intro SQL
 
 * [Slides](https://docs.google.com/presentation/d/1rCS2jkcd5mzaqKy319Um87L6GkGG2Aq5ytGnCQnp3TY/edit?usp=sharing)
 * [Livecode](https://replit.com/@DanielSohval1/ThinEvilSystems#main.sql)
@@ -134,3 +134,9 @@
 * [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
 * [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
 
+
+### SQL Joins
+
+* [Slides](https://docs.google.com/presentation/d/10c2otg3qUu20XladPR5FVdi9bcOH2Z-wCLfNRbo2OLk/edit?usp=sharing)
+* [Livecode](https://replit.com/@DanielSohval1/ThinEvilSystems#main.sql)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.4-SQL_Joins.html#javascript)
