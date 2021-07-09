@@ -139,8 +139,8 @@
 
 * [Slides](https://docs.google.com/presentation/d/10c2otg3qUu20XladPR5FVdi9bcOH2Z-wCLfNRbo2OLk/edit?usp=sharing)
 * [Livecode](https://replit.com/@DanielSohval1/ThinEvilSystems#main.sql)
-* [Lecture Recording](https://youtu.be/EpKIvnlNMds)
+* [Lecture Recording](https://youtu.be/EpKIvnlNMds )
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.4-SQL_Joins.html#javascript)
-
+* [Exit Ticket](https://forms.gle/ct4vGmGS3zMJMKWN8)
 
 * [Post-Reading: Intro to Sequelize Series](https://www.youtube.com/watch?v=qsDvJrGMSUY)
