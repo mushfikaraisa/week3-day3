@@ -5,7 +5,6 @@
 ### Helpful Resources
 * [Codecademy Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
 * [Eloquent JS Book](https://eloquentjavascript.net/)
-* [Intro to Java**](https://drive.google.com/file/d/1itgt3B7WFd5Rni0nSo2_2ui9uPxksxzb/view?usp=sharing)
 
 ### Week I
 
