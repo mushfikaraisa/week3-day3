@@ -159,4 +159,6 @@
 
 * [Slides](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
 * [Lesson pt I](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9-Sequelize_part_1.html#javascript)
+* [Lecture Recording — Intro to Sequelize](https://youtu.be/4NrTj3IxyjE)
 * [Lesson pt II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.10-Sequelize_part_2.html#javascript)
+* [Livecode](bootcamp/week-3/sequelize-intro)

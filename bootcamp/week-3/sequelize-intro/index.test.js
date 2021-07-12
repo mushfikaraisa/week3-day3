@@ -20,6 +20,7 @@ describe('Musician Database', () => {
 
 	test('can play an instrument', async () => {
 		const testMusician = await Musician.create({name: 'Jimi Hendrix', instrument : "Guitar"});
+		console.log("TEST MUSICIAN: ", testMusician)
 		expect(testMusician.instrument).toBe('Guitar');
 	})
 
