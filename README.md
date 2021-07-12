@@ -75,7 +75,7 @@
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdBepbIoJ5U99KfMomi_4CxrVfq3Iln1EaZX11E6uhZMuhrOA/viewform?usp=sf_link)
 * [End of Week Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYE8Bn3SfDX23bodGJGNXUW-ogHuGBcAPG1ZWhGgoB6B2rQQ/viewform)
 
-#### WEEK 2
+### WEEK 2
 
 #### Lesson: Asynchronous vs. Synchronous JS
 
@@ -150,3 +150,13 @@
 * [Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.4-End_of_Unit_Quiz_Async.html#javascript)
 * [Exit Ticket](https://forms.gle/ct4vGmGS3zMJMKWN8)
 * [End of Week Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYE8Bn3SfDX23bodGJGNXUW-ogHuGBcAPG1ZWhGgoB6B2rQQ/viewform)
+
+
+### WEEK 3
+
+
+#### Sequelize
+
+* [Slides](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
+* [Lesson pt I](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9-Sequelize_part_1.html#javascript)
+* [Lesson pt II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.10-Sequelize_part_2.html#javascript)
