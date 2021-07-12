@@ -161,5 +161,6 @@
 * [Lesson pt I](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9-Sequelize_part_1.html#javascript)
 * [Lecture Recording — Intro to Sequelize](https://youtu.be/4NrTj3IxyjE)
 * [Lesson pt II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.10-Sequelize_part_2.html#javascript)
+* [Lecture Recording — Associations](https://youtu.be/aHv8MMUvzCs)
 * [Livecode](bootcamp/week-3/sequelize-intro)
 * [Exit Ticket](https://forms.gle/d5yzGEJrHw588LdD9)
