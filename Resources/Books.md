@@ -4,11 +4,11 @@
 ### Javascript Resources
 * [A Smarter Way to Learn JavaScript](https://drive.google.com/file/d/12iKCGDMJaVnutwZPobAVeZedKtCQ6RFL/view?usp=sharing)
 * [Eloquent Javascript](https://eloquentjavascript.net/)
-* [Javascript and JQuery](https://drive.google.com/file/d/1r-xJs-mSqCWxNff2I-m135j6VGAHj7_j/view?usp=sharing)
+* [Javascript and JQuery](https://drive.google.com/file/d/16Xm4yL8cls5r9TtJ4Ee-aW50TQ1z02mn/view?usp=sharing)
 
 
 ### Java Resources
-* [Intro to Java**](https://drive.google.com/file/d/1itgt3B7WFd5Rni0nSo2_2ui9uPxksxzb/view?usp=sharing)
+* [Intro to Java**](https://drive.google.com/file/d/1e92ER1mw3GPh-oQqwx00Uk5yy8RY5Ku6/view?usp=sharing)
 
 
 ### Data Visualization Resources
