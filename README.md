@@ -164,3 +164,5 @@
 * [Lecture Recording — Associations](https://youtu.be/aHv8MMUvzCs)
 * [Livecode](bootcamp/week-3/sequelize-intro)
 * [Exit Ticket](https://forms.gle/d5yzGEJrHw588LdD9)
+
+* [SQL + Sequelize Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.11-End_of_Unit_Quiz_Databases.html#javascript)
