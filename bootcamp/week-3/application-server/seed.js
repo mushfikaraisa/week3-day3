@@ -18,7 +18,17 @@ const seedRestaurant = [
     name: 'Spice Grill',
     location: 'Houston',
     cuisine: 'Indian'
-  }
+  },
+  {
+    name: 'burgetking',
+    location: 'Dallas',
+    cuisine: 'Hotpot'
+  },
+  {
+    name: 'MCDS',
+    location: 'Dallas',
+    cuisine: 'Hotpot'
+  },
 ]
 
 const seedMenu = [
