@@ -172,3 +172,6 @@
 * [Pre-Reading](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
 * [Pre-Reading-express](https://expressjs.com/)
 * [Pre-Reading-Node-and-express](https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.1-Web_Servers.html#javascript)
+
+* [slides](https://docs.google.com/presentation/d/1S-juyZyrLwZGomj1tVWgSWCkZQSzsMKW7tCZh09rIpY/edit?usp=sharing)
