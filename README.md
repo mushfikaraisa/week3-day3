@@ -177,3 +177,4 @@
 * [slides](https://docs.google.com/presentation/d/1S-juyZyrLwZGomj1tVWgSWCkZQSzsMKW7tCZh09rIpY/edit?usp=sharing)
 
 * [code-base](bootcamp/week-3/application-server)
+* [PM activity](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.2-Application_Servers.html#javascript)
