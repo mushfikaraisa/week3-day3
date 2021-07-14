@@ -160,3 +160,8 @@
 * [Slides](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
 * [Lesson pt I](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9-Sequelize_part_1.html#javascript)
 * [Lesson pt II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.10-Sequelize_part_2.html#javascript)
+
+#### Web Server / Express Server
+
+* [Pre-Reading](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+* [Pre-Reading-express](https://expressjs.com/)
