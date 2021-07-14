@@ -159,7 +159,13 @@
 
 * [Slides](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
 * [Lesson pt I](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9-Sequelize_part_1.html#javascript)
+* [Lecture Recording — Intro to Sequelize](https://youtu.be/4NrTj3IxyjE)
 * [Lesson pt II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.10-Sequelize_part_2.html#javascript)
+* [Lecture Recording — Associations](https://youtu.be/aHv8MMUvzCs)
+* [Livecode](bootcamp/week-3/sequelize-intro)
+* [Exit Ticket](https://forms.gle/d5yzGEJrHw588LdD9)
+
+* [SQL + Sequelize Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.11-End_of_Unit_Quiz_Databases.html#javascript)
 
 #### Web Server / Express Server
 

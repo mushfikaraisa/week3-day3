@@ -1,8 +1,11 @@
 const {Sequelize, DataTypes, Model} = require('sequelize');
 
+// Creates a database named 'sequelize'
+// Lets us add our models (tables) later!
+
 const sequelize = new Sequelize('database', 'username','password', {
-	dialect: 'sqlite',
-	storage : './music.sqlite',
+	dialect: 'sqlite', // what type of sql?
+	storage : './music.sqlite', //file location for our db
 	logging: false
 } )
 
