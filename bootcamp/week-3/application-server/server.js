@@ -1,7 +1,6 @@
 const express = require("express");
 const path = require('path'); //a node native module
-const {Item} = require('./models/index');
-const {Restaurant} = require('./models/Restaurant');
+const {Restaurant, Menu, Item} = require('./models/index');
 
 const app = express();
 const port = 3000;
@@ -46,6 +45,8 @@ app.get('/restaurants', async (req, res) => {
 
   res.json(allRestaurants)
 })
+
+
 
 
 //Q: What will our server be doing?
