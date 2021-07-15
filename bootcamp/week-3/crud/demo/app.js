@@ -6,6 +6,8 @@ const {sequelize} = require('./db');
 
 const port = 8080;
 
+// Add this boilerplate middleware to successfully use req.body
+app.use(express.json())
 
 app.get('/', (req, res) => {
 	res.send('hello world')
@@ -32,9 +34,34 @@ app.get('/bands/:id', async (req, res) => {
 	res.json({ band })
 })
 
+
+
 //whatever we add after : becomes a key on req.params
 app.get('/:banana/:mango', (req, res) => {
 	res.send(`<h1>req.params.banana is ${req.params.banana} </h1> <h2>req.params.mango is ${req.params.mango} </h2>`);
+})
+
+// Add new musician
+app.post('/musicians', async (req, res) => {
+	let newMusician = await Musician.create(req.body);
+	res.send('Created!')
+})
+
+// Delete a musician
+
+app.delete('/musicians/:id', async (req, res) => {
+	await Musician.destroy({
+		where : {id : req.params.id} // Destory an Musician where this object matches
+	})
+	res.send("Deleted!!")
+})
+
+// Update a musician
+app.put("/musicians/:id", async (req, res) => {
+	let updated = await Musician.update(req.body, {
+		where : {id : req.params.id} // Update a musician where the id matches, based on req.body
+	})
+	res.send("Updated!!")
 })
 
 

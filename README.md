@@ -186,9 +186,11 @@
 
 * [Slides](https://docs.google.com/presentation/d/1Gogt1bg8M2UI7IFhLscz9pzwDKze8qeb5zYhHSRj8Cw/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.4-Route_Parameters.html#javascript)
+* [Lecture Recording](https://youtu.be/P9y0i-aQ-mQ)
 
 
 #### Express — CRUD
 
 * [Slides](https://docs.google.com/presentation/d/1rMXmZLBskR2CtYjUpQBFUMEFkPRESqX0bKcFkxa2l3E/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.5-CRUD_operations.html#javascript)
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSd3lz1mTY-_tKKpDsdH3ZFBEKc7eNoSOJmdGAdL6Su35UunLQ/viewform?usp=sf_link)
