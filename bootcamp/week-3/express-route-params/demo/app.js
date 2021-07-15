@@ -11,9 +11,36 @@ app.get('/', (req, res) => {
 	res.send('hello world')
 })
 
+app.get('/musicians', async (req, res) => {
+	let musicians = await Musician.findAll()
+	res.json({ musicians })
+})
+
+app.get('/bands', async (req, res) => {
+	let bands = await Band.findAll()
+	res.json({ bands })
+})
+
+
+app.get('/musicians/:id', async (req, res) => {
+	let musician = await Musician.findByPk(req.params.id);
+	res.json({ musician })
+})
+
+app.get('/bands/:id', async (req, res) => {
+	let band = await Band.findByPk(req.params.id, {include : Musician});
+	res.json({ band })
+})
+
+//whatever we add after : becomes a key on req.params
+app.get('/:banana/:mango', (req, res) => {
+	res.send(`<h1>req.params.banana is ${req.params.banana} </h1> <h2>req.params.mango is ${req.params.mango} </h2>`);
+})
+
+
 app.listen(port, async () => {
 	await seed()
-    console.log(`Server listening at http://localhost:${port}`)
+	console.log(`Server is listening on http://localhost:${port}`)
 })
 
 
@@ -34,5 +61,7 @@ async function seed(){
 
 	await bigBang.addMusician(GD);
 	await bigBang.addMusician(Top);
+
+	console.log("db seeded!!")
 
 }
