@@ -193,4 +193,5 @@
 
 * [Slides](https://docs.google.com/presentation/d/1rMXmZLBskR2CtYjUpQBFUMEFkPRESqX0bKcFkxa2l3E/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.5-CRUD_operations.html#javascript)
+* [Lecture Recording](https://youtu.be/uId0VqbK-5E)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSd3lz1mTY-_tKKpDsdH3ZFBEKc7eNoSOJmdGAdL6Su35UunLQ/viewform?usp=sf_link)
