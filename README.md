@@ -193,5 +193,18 @@
 
 * [Slides](https://docs.google.com/presentation/d/1rMXmZLBskR2CtYjUpQBFUMEFkPRESqX0bKcFkxa2l3E/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.5-CRUD_operations.html#javascript)
-* [Lecture Recording](https://youtu.be/uId0VqbK-5E)
+* [Lecture Recording](https://youtu.be/uId0VqbK-5Es)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSd3lz1mTY-_tKKpDsdH3ZFBEKc7eNoSOJmdGAdL6Su35UunLQ/viewform?usp=sf_link)
+
+
+#### End of Unit Surveys
+
+* [Quiz](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.7-End_of_Unit_Quiz_RESTful.html#javascript)
+* [End of Week Survey](https://docs.google.com/forms/d/e/1FAIpQLSfYE8Bn3SfDX23bodGJGNXUW-ogHuGBcAPG1ZWhGgoB6B2rQQ/viewform)
+
+* [Bonus Workshop -- Server-side Validations](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.6-Server_side_Validation.html#javascript)
+* [Pre-reading -- Human Computer Interaction](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.1-Human_Computer_Interaction.html#javascript)
+
+**Don't forget to send out your Manager Emails!**
+
+
