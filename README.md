@@ -207,4 +207,18 @@
 
 **Don't forget to send out your Manager Emails!**
 
+### Week 4
+
+#### Server-Side Rendering
+
+* [Slides](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.2-Server_Side_Rendering.html#javascript)
+* [Livecode](bootcamp/week-3/)
+
+#### The DOM
+
+* [Slides](https://docs.google.com/presentation/d/14kqd1ezUG-LMH3OfaoeUP_o9A5iy-ssmbNl4CS275PE/edit?usp=sharing)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.3-The_Document_Object_Model.html#javascript)
+* [Livecode](bootcamp/week-4/handlebars/demo)
+* [Starting point](bootcamp/week-4/handlebars/starting-point)
 
