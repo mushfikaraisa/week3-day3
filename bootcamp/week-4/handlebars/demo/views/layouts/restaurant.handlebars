@@ -1,0 +1,9 @@
+<section>
+	<h2>There are {{restaurants.length}} restaurants</h2>
+	{{#each restaurants}} <!-- for each sauce in sauces, create this html -->
+		<article >
+			<h2>{{name}}</h2>
+			<img  src="{{image}}" />
+		</article>
+	{{/each}}
+</section>

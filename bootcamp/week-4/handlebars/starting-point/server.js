@@ -19,6 +19,13 @@ const port = 3000;
 app.use(express.static('public'));
 
 app.use(express.json());
+const handlebars = expressHandlebars({
+    handlebars : allowInsecurePrototypeAccess(Handlebars)
+})
+
+//Tell this express app we're using handlebars
+app.engine('handlebars', handlebars);
+app.set('view engine', 'handlebars')
 
 
 const restaurantChecks = [
@@ -29,7 +36,7 @@ const restaurantChecks = [
 
 app.get('/restaurants', async (req, res) => {
     const restaurants = await Restaurant.findAll();
-    res.json(restaurants);
+    res.render('restaurant' , {restaurants});
 });
 
 app.get('/restaurants/:id', async (req, res) => {

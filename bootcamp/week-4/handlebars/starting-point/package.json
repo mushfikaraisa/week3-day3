@@ -1,10 +1,10 @@
 {
-  "name": "webServers",
+  "name": "webservers",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
@@ -17,5 +17,9 @@
     "handlebars": "^4.7.7",
     "sequelize": "^6.6.2",
     "sqlite3": "^5.0.2"
-  }
+  },
+  "bin": {
+    "webservers": "populateDb.js"
+  },
+  "description": ""
 }
